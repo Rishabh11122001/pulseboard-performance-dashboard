@@ -2,6 +2,12 @@
 
 PulseBoard is a performance-focused React + TypeScript analytics dashboard designed to keep interaction responsive while exploring up to **250,000 transaction records in the browser**.
 
+## Live Demo
+
+**Live Application:** https://pulseboard-performance-dashboard.vercel.app
+
+**GitHub Repository:** https://github.com/Rishabh11122001/pulseboard-performance-dashboard
+
 ## Why this project exists
 
 Built for the **Performance-Critical Data Visualization Dashboard** assignment. The challenge is not simply drawing charts; it is reducing unnecessary work while filtering, aggregating and rendering a large analytical dataset.
